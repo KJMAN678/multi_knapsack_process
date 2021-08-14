@@ -1,7 +1,10 @@
 ## 複数のナップサック処理、bin の item 数の上限を設定
 
-- サンプルコード
+- サンプルコード  
 https://developers.google.com/optimization/bin/multiple_knapsack
 
-- item 数の上限設定
+- item 数の上限設定  
 https://groups.google.com/g/or-tools-discuss/c/_wMp2KbxI1g/m/eEZ4Sb7cAgAJ
+
+- Google Colab  
+https://colab.research.google.com/drive/1VagQO_KotDHfPJKcP8uipbJH3qIaU7YG?usp=sharing
